@@ -1,0 +1,25 @@
+{
+  "name": "SolarSystem",
+  "authors": [
+    "Nikita Chernykh <chernykhmain@gmail.com>"
+  ],
+  "description": "SolarSystem",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
