@@ -1,2 +1,1 @@
-#SolarSystem
-Link: http://solarsystem.azurewebsites.net/
+#THREE.js_Solar-System
